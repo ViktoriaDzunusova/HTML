@@ -1,0 +1,961 @@
+body{
+  margin: 0;
+}
+.mainmain{
+  width: 100%;
+  height: 100%;
+  background-color: #000000;
+overflow: hidden;
+}
+.one{
+
+  width: 100%;
+  height: 100%;
+  background-color: #000000;
+
+}
+/*Перша сторінка */
+.blue{
+  width: 100%;
+  height: 37px;
+  background:linear-gradient(229deg, #0047FF 0%, #00BCD4 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.header{
+  font-family: 'Roboto', sans-serif;
+
+}
+.main{
+  display: flex;
+justify-content: space-around;
+}
+
+.black{
+  color: #848895;
+  font-size: 17px;
+  margin-top: 22px;
+
+}
+img{
+  width: 181px;
+  height: 27px;
+  margin-right:435px;
+  margin-top: 21px;
+  margin-left: 200px;
+}
+
+.Learn{
+  margin-right: 56px;
+}
+.Build{
+  margin-right: 56px;
+
+}
+.Network{
+  margin-right: 56px;
+}
+.Community{
+  margin-right: 50px;
+
+}
+
+.content{
+color: #FFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+}
+.powercenter{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+h1{
+  font-size: 70px;
+}
+.Powerful{
+  margin-bottom: 0;
+  margin-top: 160px;
+}
+.Fast{
+  margin-top: 0;
+}
+
+.Bring{
+  font-size: 21px;
+
+}
+button{
+  margin-right: 15px;
+  border-radius: 36px;
+  margin-bottom: 121px;
+  border: 1px solid #000;
+  font-size: 15px;
+  font-family: 'Roboto', sans-serif;
+  color: #FFF;
+  text-transform: uppercase;
+}
+.Start{
+
+width: 181px;
+  height: 52px;
+  border: 1px solid #000;
+  background: linear-gradient(152deg, #8C01FA 0%, #000 100%);
+}
+
+.Read{
+  border: 1px solid #FFF;
+  background: #000;
+  width: 146px;
+  height: 52px;
+}
+.two{
+  width: 100%;
+  height: 100%;
+  background-color: #000000;
+  margin-top: 0;
+
+}
+.Powering{
+  color: #618ADC;
+  margin-bottom: 0;
+}
+.content2{
+  display: flex;
+justify-content: center;
+  margin-top: 0;
+}
+.picture{
+ display: flex;
+  width: 70%;
+  justify-content: center;
+  align-items: center;
+  margin-top: 0;
+}
+.boxpower{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.brave{
+  width: 10%;
+  margin-right: 0;
+  margin-left: 0;
+}
+.circle{
+  width: 10%;
+  margin-right: 0;
+margin-left: 40px;
+
+}
+.discord{
+  width: 10%;
+  margin-right: 0;
+  margin-left: 40px;
+
+
+}
+.google{
+  width: 10%;
+  margin-right: 0;
+  margin-left: 40px;
+
+
+
+}
+.jump{
+  width: 10%;
+  margin-right: 0;
+  margin-left: 40px;
+
+
+}
+.lol{
+  width: 10%;
+  margin-right: 0;
+  margin-left: 40px;
+
+}
+.me{
+  margin-right: 0;
+  margin-left: 40px;
+
+  width: 10%;
+}
+/*Друга сторінка */
+
+.content3{
+  display: flex;
+  justify-content: center;
+}
+.joingof{
+  margin-top: 145px;
+  margin-right: 234px;
+}
+.join{
+  color: #FFF;
+  font-size: 38px;
+  margin-bottom: 0;
+}
+.of{
+  color: #FFF;
+  font-size: 38px;
+  margin-top: 0;
+}
+.first {
+
+  width: 333px;
+  margin-top: 145px;
+
+}
+
+.second{
+  width: 296px;
+
+}
+.third{
+  width: 476px;
+
+
+}
+.a{
+  font-size: 101px;
+  margin-bottom: 0;
+  background: linear-gradient(228deg, #19FB9B 0%, #8C01FA 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.b{
+  font-size: 106px;
+  color: #89ffcb;
+  margin-bottom: 0;
+  background: linear-gradient(229deg, #0047FF 0%, #00BCD4 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+}
+.c{
+  font-size: 110px;
+  color: #89ffcb;
+  margin-bottom: 0;
+  background: linear-gradient(222deg, #00FFBD 0%, #025B8C 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;}
+.active{
+  color: #C4C4C4;
+  font-size: 16px;
+  margin-top: 2px;
+  margin-bottom: 0;
+  text-transform: uppercase;
+  font-family: 'Roboto', sans-serif;
+
+}
+.NFTs{
+  color: #C4C4C4;
+  font-size: 16px;
+  margin-top: 0;
+  margin-bottom: 0;
+  text-transform: uppercase;
+  font-family: 'Roboto', sans-serif;
+
+
+}
+.Average{
+  color: #C4C4C4;
+  font-size: 16px;
+margin-top: 0;
+  text-transform: uppercase;
+  font-family: 'Roboto', sans-serif;
+
+}
+/*Третя сторінка */
+
+.three{
+  width: 100%;
+  height: 100%;
+  background-color: black;
+  display: flex;
+justify-content: space-around;
+}
+.center{
+  display: flex;
+  flex-direction: column;
+  margin-top: 208px;
+
+}
+
+.box1{
+  width: 340px;
+  height: 308px;
+}
+.box2{
+  width: 340px;
+  height: 335px;
+}
+.left{
+  display: flex;
+  flex-direction: column;
+  margin-top: 125px;
+}
+.left2{
+  margin-top: 128px;
+  display: flex;
+  flex-direction: column;
+}
+.box3{
+  width: 340px;
+  height: 335px;
+  display: flex;
+  flex-direction: column;
+}
+.box4{
+  width: 340px;
+  height: 362px;
+
+}
+
+.made{
+  color: #FFF;
+  font-size: 40px;
+  margin-bottom: 0;
+}
+.mass{
+  color: #FFF;
+  font-size: 40px;
+  margin-top: 0;
+  margin-bottom: 0;
+
+}
+.live{
+  color: #C4C4C4;;
+  font-size: 16px;
+  margin-top: 0;
+  font-family: 'Roboto', sans-serif;
+  text-transform: uppercase;
+
+}
+.fast2{
+  color: #FFF;
+  font-size: 28px;
+}
+.dont{
+  color: #C4C4C4;
+  font-size: 17px;
+}
+.tr{
+  color: #FFF;
+  font-size: 28px;
+  margin-bottom: 0;
+}
+.transactions{
+  color: #C4C4C4;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  text-transform: uppercase;
+
+
+}
+.scalable{
+  color: #FFF;
+  font-size: 28px;
+}
+.get{
+  color: #C4C4C4;
+  font-size: 18px;
+}
+.hr{
+  color: #FFF;
+  font-size: 26px;
+  margin-bottom: 0;
+
+}
+.total{
+  color: #C4C4C4;
+  font-size: 16px;
+  font-family: 'Roboto', sans-serif;
+  text-transform: uppercase;
+
+
+
+}
+.decentralized{
+  color: #FFF;
+  font-size: 28px;
+}
+.solana{
+  color: #C4C4C4;
+  font-size: 18px;
+}
+.six{
+  color: #FFF;
+  font-size: 25px;
+
+}
+.validator{
+  color: #C4C4C4;
+  font-size: 16px;
+  font-family: 'Roboto', sans-serif;
+  margin-top: 0;
+  text-transform: uppercase;
+
+
+}
+.energy{
+  color: #FFF;
+  font-size: 28px;
+
+}
+.solana2{
+  color: #C4C4C4;
+  font-size: 18px;
+}
+.zero{
+  color: #FFF;
+  font-size: 26px;
+  margin-bottom: 0;
+
+
+}
+.net{
+  color: #C4C4C4;
+  font-size: 16px;
+  font-family: 'Roboto', sans-serif;
+  text-transform: uppercase;
+
+
+}
+.environment{
+  color:#19FB9B;
+
+}
+/*Четверта сторінка */
+
+.doxfour{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.four{
+  background-color: black;
+  width: 100%;
+  height: 100%;
+ }
+.build2{
+  color: #FFF;
+  font-size: 39px;
+margin-top: 0;
+  margin-left: 200px;
+
+}
+.header2{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.buttmain{
+  margin-left: 270px;
+  margin-top: 100px;
+}
+
+.button2{
+  background: #111;
+  color: #FFF;
+  text-align: center;
+  font-size: 15px;
+  border: 1px solid #A962FF;
+  width: 64px;
+  height: 48px;
+}
+.button3{
+  border: 1px solid #111;
+  background: #111;
+  color: #FFF;
+  text-align: center;
+  font-size: 15px;
+  width: 62px;
+  height: 48px;
+}
+.button4{
+  border: 1px solid #111;
+  background: #111;
+  color: #FFF;
+  text-align: center;
+  font-size: 16px;
+  width: 98px;
+  height: 48px;
+}
+.button7{
+  border: 1px solid #111;
+  background: #111;
+  color: #FFF;
+  text-align: center;
+  font-size: 15px;
+  width: 83px;
+  height: 48px;
+}
+.button6{
+  border: 1px solid #111;
+  background: #111;
+  color: #FFF;
+  text-align: center;
+  font-size: 16px;
+  width: 71px;
+  height: 48px;
+}
+.photo{
+  display: flex;
+}
+.man{
+  width: 550px;
+  height: 400px;
+  margin-right: 0;
+  margin-top: 0;
+}
+.anybodies2{
+  width: 550px;
+  height: 400px;
+  margin-left:0;
+  background: #111;
+  border-top-right-radius:5%;
+  margin-top:0;
+}
+.anybodies{
+  width: 240px;
+  height: 52px;
+  margin-top:94px;
+  margin-left: 45px;
+}
+.text{
+  display: flex;
+  margin-left: 48px;
+}
+.learn{
+  color: #A962FF;
+  font-size: 20px;
+  margin-right: 5px;
+}
+.text1{
+  color: #A962FF;
+  font-size: 20px;
+}
+.text2{
+  color: #A962FF;
+  font-size: 21px;
+}
+.time{
+  color: #FFF;
+  font-size: 21px;
+  width: 439px;
+  margin-left: 48px;
+  margin-top:14px;
+}
+.bottom{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 16px;
+  background: rgba(38, 31, 38, 0.30);
+  margin-top: 20px;
+  width: 75%;
+  margin-left: 280px;
+}
+.imgbottom{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  margin-bottom: 20px;
+}
+.IMAGEone{
+  width: 100px;
+  height: 30px;
+  margin-right: 0;
+margin-left: 0;
+  border: solid #3bbd98;
+}
+.IMAGEtwo{
+  margin-right: 0;
+  width: 39px;
+  height: 46px;
+}
+.IMAGEthree{
+margin-right: 0;
+  width: 46px;
+  height: 46px;
+}
+.IMAGEfour{
+margin-right: 0;
+  width: 100px;
+  height: 30px;
+}
+
+/*П'ята сторінка */
+.five{
+  overflow: hidden;
+
+}
+.boxmain{
+display: flex;
+  align-items: center;
+}
+.picture1{
+  display: flex;
+  flex-direction: column;
+}
+.boxleft{
+  background: #111;
+  width: 300px;
+  height: 200px;
+display: flex;
+  justify-content: center;
+  flex-direction:column;
+  align-items: center;
+
+}
+.picture0{
+  width: 300px;
+  height: 200px;
+  margin-left: 0;
+  margin-top: 20px;
+  margin-right: 0;
+
+}
+
+.eleven{
+  color: #F087FF;
+  font-size: 37px;
+  margin-bottom: 0;
+}
+.picture2{
+  width: 600px;
+  height: 420px;
+margin-top: 0;
+  margin-left: 20px;
+  margin-right: 0;
+}
+.house{
+  color: #BABABA;
+  text-transform: uppercase;
+}
+
+.joing2{
+  font-size: 38px;
+  color: #FFFFFF;
+  margin-top: 122px;
+  margin-left: 270px;
+}
+
+.grey{
+  background: #111;
+  width: 300px;
+  height: 200px;
+  display: flex;
+  flex-direction:column;
+  align-items: center;
+  justify-content: center;
+}
+
+.four8{
+  color: #19FB9B;
+  font-size: 42px;
+  margin-top: 0;
+ margin-bottom: 9px;
+}
+.developers2{
+  color: #BABABA;
+  font-size: 12px;
+  text-transform: uppercase;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.developers23{
+  color: #BABABA;
+  font-size: 12px;
+  text-transform: uppercase;
+  margin-top: 0;
+}
+.picture3{
+  width: 300px;
+  height: 200px;
+  margin: 0 0 20px 0;
+}
+.boxcenter{
+  padding-left: 15px;
+}
+.picture4{
+  width: 300px;
+  height: 420px;
+  margin-top: 0;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.grey2{
+  background: #111;
+  width: 300px;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  flex-direction:column;
+  align-items: center;
+  margin-left: 0;
+}
+.three8{
+  color: #FFEB3B;
+  font-size: 42px;
+  margin-bottom: 0;
+}
+.twotwo{
+  color: #BABABA;
+  font-size: 12px;
+  text-transform: uppercase;
+}
+.picturefive{
+  width: 300px;
+  height: 200px;
+  margin-left: 0;
+}
+.boxleft2{
+  display: flex;
+  flex-direction: column;
+}
+
+.text5{
+  color: #FFF;
+  font-family: 'Roboto', sans-serif;
+  font-size: 38px;
+  margin-bottom: 0;
+}
+.text51{
+  color: #FFF;
+  font-family: 'Roboto', sans-serif;
+  font-size: 38px;
+  margin-top: 0;
+}
+.button5{
+  width: 175px;
+  height: 50px;
+  color: #FFFFFF;
+  border-radius: 36px;
+  border: 1px solid #000;
+  margin-top: 18px;
+  background:linear-gradient(152deg, #8C01FA 0%, #000 100%);
+  text-transform: uppercase;
+  font-family: 'Roboto', sans-serif;
+}
+.box5{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 126px;
+}
+.boxin{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 736px;
+}
+/*Шоста сторінка*/
+.textlast{
+  height: 383px;
+  background: #000508;
+  border-radius: 12px 12px 0 0;
+  border: 1px solid #141414;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+.boxheadder{
+display: flex;
+  flex-direction: column;
+}
+.frame{
+  width: 31px;
+  height: 27px;
+  margin-left: 0;
+  margin-top: 80px;
+}
+.Frame1{
+  width: 16px;
+  height: 16px;
+  background: #848895;
+  background-size:26px;
+  margin-right: 0;
+  margin-left: 10px;
+}
+.Frame2{
+  width: 16px;
+  height: 16px;
+  background: #848895;
+  margin-right: 0;
+  margin-left: 10px;
+}
+.Frame3{
+  width: 16px;
+  height: 16px;
+  background: #848895;
+  margin-right: 0;
+  margin-left: 10px;
+}
+.Frame4{
+  width: 16px;
+  height: 16px;
+  background: #848895;
+  margin-right: 0;
+  margin-left: 10px;
+
+}
+.Frame5{
+  width: 16px;
+  height: 16px;
+  background: #848895;
+  margin-right: 0;
+  margin-left: 10px;
+
+}
+.Frame6{
+  width: 16px;
+  height: 16px;
+  background: #848895;
+  margin-left: 10px;
+}
+
+.t2{
+  color: #848895;
+  font-size: 16px;
+
+}
+.t3{
+  color: #848895;
+  font-size: 16px;
+}
+.t4{
+
+  color: #848895;
+  font-size: 16px;
+}
+.boxsolana{
+  color: #848895;
+  font-size: 15px;
+  margin-right:68px;
+  margin-top: 80px;
+
+}
+.textsolana{
+  color: #FFF;
+  font-size: 16px;
+  text-transform: uppercase;
+}
+.textget{
+  color: #FFF;
+  font-size: 15px;
+  text-transform: uppercase;
+}
+.boxget{
+  color: #848895;
+  font-size: 15px;
+  margin-right: 68px;
+margin-top: 80px;
+
+}
+.framex{
+  width: 19px;
+  height: 20px;
+  margin-left: 0;
+  margin-right: 4px;
+
+}
+.texten{
+  font-size: 15px;
+  color: #848895;
+margin-left: 0;
+  text-transform: uppercase;
+  margin-top: 23px;
+}
+
+.text9{
+  margin-left: 0;
+  display: flex;
+  margin-top: 20px;
+}
+
+.manged{
+  font-size: 16px;
+  color: #FFF;
+  font-family: 'Roboto', sans-serif;
+  margin-left: 0;
+  margin-top: 20px;
+}
+
+.boxen{
+display: flex;
+  margin-top: 70px;
+}
+.boxmanaged{
+  display: flex;
+  flex-direction: column;
+margin-left: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
